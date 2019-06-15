@@ -1,0 +1,13 @@
+[core]
+	repositoryformatversion = 0
+	filemode = false
+	bare = false
+	logallrefupdates = true
+	symlinks = false
+	ignorecase = true
+[remote "orgin"]
+	url = 1611868394@qq.com:
+	fetch = +refs/heads/*:refs/remotes/orgin/*
+[remote "orin"]
+	url = git@github.com:willowstreaml/Demo.git
+	fetch = +refs/heads/*:refs/remotes/orin/*
