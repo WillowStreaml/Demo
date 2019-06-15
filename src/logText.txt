@@ -1,0 +1,61 @@
+INFO 16:43:01 service startup!
+INFO 16:43:03 client connected
+INFO 16:43:03 Connect Success
+INFO 16:43:03 transfer start
+INFO 16:43:03 sent transfer cmd
+INFO 16:43:03 Send FileName:1.jpg
+INFO 16:43:03 Sent TransferFile Size:293822
+INFO 16:43:34 service startup!
+INFO 16:43:35 client connected
+INFO 16:43:35 Connect Success
+INFO 16:43:36 transfer start
+INFO 16:43:36 sent transfer cmd
+INFO 16:43:36 Send FileName:1.jpg
+INFO 16:43:36 Sent TransferFile Size:293822
+INFO 16:46:17 service startup!
+INFO 16:46:19 client connected
+INFO 16:46:19 Connect Success
+INFO 16:46:19 transfer start
+INFO 16:46:19 sent transfer cmd
+INFO 16:46:19 Send FileName:1.jpg
+INFO 16:46:19 Sent TransferFile Size:293822
+INFO 16:47:30 service startup!
+INFO 16:47:36 client connected
+INFO 16:47:36 Connect Success
+INFO 16:47:36 transfer start
+INFO 16:47:36 sent transfer cmd
+INFO 16:47:36 Send FileName:1.jpg
+INFO 16:47:36 D:\TestSpace\DocumentLibrary
+INFO 16:47:36 Sent TransferFile Size:293822
+INFO 16:47:36 service recive data
+INFO 16:47:36 Close Client
+INFO 16:47:36 service recive data end
+INFO 16:51:18 service startup!
+INFO 16:51:20 client connected
+INFO 16:51:20 Connect Success
+INFO 16:51:20 transfer start
+INFO 16:51:20 sent transfer cmd
+INFO 16:51:20 Send FileName:1.jpg
+INFO 16:51:20 Sent TransferFile Size:293822
+INFO 17:03:32 service startup!
+INFO 17:03:34 client connected
+INFO 17:03:34 Connect Success
+INFO 17:03:34 transfer start
+INFO 17:03:34 sent transfer cmd
+INFO 17:03:34 Send FileName:1.jpg
+INFO 17:03:34 Sent TransferFile Size:293822
+INFO 17:04:26 service startup!
+INFO 17:04:28 client connected
+INFO 17:04:28 Connect Success
+INFO 17:04:28 transfer start
+INFO 17:04:28 sent transfer cmd
+INFO 17:04:28 Send FileName:1.jpg
+INFO 17:04:28 D:\TestSpace\DocumentLibrary
+INFO 17:04:28 Sent TransferFile Size:293822
+INFO 17:04:28 service recive data
+INFO 17:04:28 Close Client
+INFO 17:04:28 service recive data end
+Log19:24:17 : service start recive file:1.jpg
+Log19:24:17 : service recive file end, file size:293822
+Log00:00:48 : service start recive file:1.jpg
+Log00:00:48 : service recive file end, file size:293822
